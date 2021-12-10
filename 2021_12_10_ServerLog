@@ -1,0 +1,67 @@
+2021-12-10 05:08:51.848552 [info]: deal with the client(127.0.0.1)
+2021-12-10 05:08:51.848661 [info]: GET / HTTP/1.1
+2021-12-10 05:08:51.848671 [info]: Host: 127.0.0.1:8888
+2021-12-10 05:08:51.848675 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0
+2021-12-10 05:08:51.848679 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0
+2021-12-10 05:08:51.848683 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+2021-12-10 05:08:51.848687 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+2021-12-10 05:08:51.848691 [info]: Accept-Language: en-US,en;q=0.5
+2021-12-10 05:08:51.848695 [info]: oop!unknow header: Accept-Language: en-US,en;q=0.5
+2021-12-10 05:08:51.848699 [info]: Accept-Encoding: gzip, deflate
+2021-12-10 05:08:51.848703 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2021-12-10 05:08:51.848707 [info]: Connection: keep-alive
+2021-12-10 05:08:51.848711 [info]: Upgrade-Insecure-Requests: 1
+2021-12-10 05:08:51.848715 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2021-12-10 05:08:51.848718 [info]: 
+2021-12-10 05:08:51.848744 [info]: request:HTTP/1.1 200 OK
+
+2021-12-10 05:08:51.848750 [info]: request:HTTP/1.1 200 OK
+Content-Length:586
+
+2021-12-10 05:08:51.848754 [info]: request:HTTP/1.1 200 OK
+Content-Length:586
+Connection:keep-alive
+
+2021-12-10 05:08:51.848758 [info]: request:HTTP/1.1 200 OK
+Content-Length:586
+Connection:keep-alive
+
+
+2021-12-10 05:08:51.848766 [info]: adjust timer once
+2021-12-10 05:08:51.848799 [info]: send data to the client(127.0.0.1)
+2021-12-10 05:08:51.848807 [info]: adjust timer once
+2021-12-10 05:08:51.894313 [info]: deal with the client(127.0.0.1)
+2021-12-10 05:08:51.894413 [info]: adjust timer once
+2021-12-10 05:08:51.894483 [info]: GET /favicon.ico HTTP/1.1
+2021-12-10 05:08:51.894504 [info]: Host: 127.0.0.1:8888
+2021-12-10 05:08:51.894509 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0
+2021-12-10 05:08:51.894513 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0
+2021-12-10 05:08:51.894517 [info]: Accept: image/webp,*/*
+2021-12-10 05:08:51.894520 [info]: oop!unknow header: Accept: image/webp,*/*
+2021-12-10 05:08:51.894524 [info]: Accept-Language: en-US,en;q=0.5
+2021-12-10 05:08:51.894527 [info]: oop!unknow header: Accept-Language: en-US,en;q=0.5
+2021-12-10 05:08:51.894531 [info]: Accept-Encoding: gzip, deflate
+2021-12-10 05:08:51.894534 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2021-12-10 05:08:51.894538 [info]: Connection: keep-alive
+2021-12-10 05:08:51.894541 [info]: 
+2021-12-10 05:08:51.894565 [info]: request:HTTP/1.1 200 OK
+
+2021-12-10 05:08:51.894569 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+
+2021-12-10 05:08:51.894572 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+Connection:keep-alive
+
+2021-12-10 05:08:51.894576 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+Connection:keep-alive
+
+
+2021-12-10 05:08:51.894770 [info]: send data to the client(127.0.0.1)
+2021-12-10 05:08:51.894829 [info]: adjust timer once
+2021-12-10 05:08:53.311754 [info]: timer tick
+2021-12-10 05:08:58.312710 [info]: timer tick
+2021-12-10 05:09:03.313985 [info]: timer tick
+2021-12-10 05:09:08.314606 [info]: timer tick
+2021-12-10 05:09:08.314742 [info]: close fd 16
